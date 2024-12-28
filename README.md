@@ -1,10 +1,9 @@
+![logo](https://github.com/riya106/riya106/blob/main/Riya%20Tyagi.pdf)
 <h1 align="center">Hi 👋, I'm Riya Tyagi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riya&label=Profile%20views&color=0e75b6&style=flat" alt="riya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/riyatyagi155121?t=wo9-64nrtxvzem8sn7hinw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/riyatyagi155121?t=wo9-64nrtxvzem8sn7hinw&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/riyatyagi155121?t=wo9-64nrtxvzem8sn7hinw&s=09" /></a> </p>
 
 - I am currently learning **Frontend ,DSA , etc**
 
