@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Riya Tyagi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+ **Full stack Developer ,Learning--DSA!!
 
-- I am currently learning **Full stack Developer ,DSA , etc**
-
-- 📫 How to reach me **riyatyagi992@gmail.com**
+-  How to reach me **riyatyagi992@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
