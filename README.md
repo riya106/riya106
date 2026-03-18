@@ -66,7 +66,6 @@
 
 ##  Goals  
 -  Contribute to Open Source Projects  
--  Secure an International Internship  
 -  Improve DSA & Backend Skills  
 -  Collaborate with developers worldwide  
 
