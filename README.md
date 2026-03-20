@@ -5,12 +5,6 @@
 
 ---
 
-##  About Me  
--  Full Stack Developer (Frontend + Backend)  
--  Currently learning **Data Structures & Algorithms + Backend Development**  
--  Exploring **Open Source Contributions**  
--  Interested in **remote & international opportunities**  
--  Passionate about building real-world projects  
 
 
 ## 🛠️ Tech Stack  
