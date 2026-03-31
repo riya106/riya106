@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riya Tyagi</h1>
+<h1 align="center">Hi I'm Riya Tyagi</h1>
 <h3 align="center">Full Stack Developer | Open Source Enthusiast | Backend Learner</h3>
 
 <p align="center">
@@ -7,17 +7,17 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-* 🎓 B.Tech CSE (AI/ML) Student
-* 💻 Currently learning **Backend Development**
-* 📚 Practicing **Data Structures & Algorithms**
-* 🚀 Building real world projects
-* 🌍 Goal: **International Internship & Tech Entrepreneurship**
+*  B.Tech CSE (AI/ML) Student
+* Currently learning **Backend Development**
+* Practicing **Data Structures & Algorithms**
+* Building real world projects
+
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -31,9 +31,9 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔎 Findy
+###  Findy
 
 A platform where users can **discover nearby shops and vendors**, and vendors can **list their businesses online**.
 
@@ -43,7 +43,7 @@ A platform where users can **discover nearby shops and vendors**, and vendors ca
 
 ---
 
-### 🧠 Zenuis
+###  Zenuis
 
 A productivity and organization platform designed to **help students manage tasks and resources efficiently**.
 
@@ -71,11 +71,11 @@ A productivity and organization platform designed to **help students manage task
 
 </p>
 
-📩 Reach me at: **[riyatyagi992@gmail.com](mailto:riyatyagi992@gmail.com)**
+ Reach me at: **[riyatyagi992@gmail.com](mailto:riyatyagi992@gmail.com)**
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -87,15 +87,15 @@ A productivity and organization platform designed to **help students manage task
 
 ---
 
-## 🎯 Goals
+##  Goals
 
-* 🌱 Contribute to **Open Source Projects**
-* 🧠 Improve **DSA & Backend Development**
-* 🤝 Collaborate with developers worldwide
-* 🚀 Build impactful tech projects
+*  Contribute to **Open Source Projects**
+*  Improve **DSA & Backend Development**
+*  Collaborate with developers worldwide
+*  Build impactful tech projects
 
 ---
 
-### 💡 Motto
+###  Motto
 
 *"Consistency + Projects + Open Source = Opportunities"*
