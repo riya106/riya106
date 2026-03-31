@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Riya Tyagi</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast | Backend Learner</h3>
+
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300"/>
